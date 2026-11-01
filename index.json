@@ -10,7 +10,7 @@
       "bundleIdentifier": "com.jiwxn3.KJournal",
       "developerName": "KJournal Team",
       "subtitle": "KJournal iOS — PsychonautWiki Journal 한국어 포크",
-      "version": "5.0",
+      "version": "5.0-PB2",
       "versionDate": "2026-11-01T14:43:18Z",
       "versionDescription": "5.0-PB2\n- 최신버전(15.6)을 기반으로 다시 만들었습니다!\n- K저널 도구를 추가했습니다!\n- 가져오기시 영문 저널 데이터면 자동으로 한글 저널 데이터로 변환합니다!\n- 한글화를 더욱더 하였습니다",
       "downloadURL": "https://kjournal.github.io/kjournal-site/ios/KJournal-5.0-PB2-ios.ipa",
