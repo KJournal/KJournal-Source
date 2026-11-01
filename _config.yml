@@ -1,0 +1,8 @@
+title: KJournal Source
+description: SideStore app source for KJournal (iOS)
+url: "https://kjournal.github.io"
+baseurl: "/KJournal-Source"
+
+exclude:
+  - "LICENSE"
+  - "README.md"
