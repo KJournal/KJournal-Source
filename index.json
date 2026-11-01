@@ -7,7 +7,7 @@
   "apps": [
     {
       "name": "KJournal",
-      "bundleIdentifier": "isaak.PsychonautWiki-Journal",
+      "bundleIdentifier": "com.jiwxn3.KJournal",
       "developerName": "KJournal Team",
       "version": "5.0 PB2",
       "versionCode": "5.0-PB2-ios",
