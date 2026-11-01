@@ -9,30 +9,26 @@
       "name": "KJournal",
       "bundleIdentifier": "com.jiwxn3.KJournal",
       "developerName": "KJournal Team",
+      "subtitle": "KJournal iOS — PsychonautWiki Journal 한국어 포크",
       "version": "5.0 PB2",
-      "versionCode": "5.0-PB2-ios",
       "versionDate": "2026-11-01T05:00:00Z",
       "versionDescription": "KJournal 5.0 PB2 iOS (사이드로드)",
+      "downloadURL": "https://kjournal.github.io/kjournal-site/ios/KJournal-5.0-PB2-ios.ipa",
+      "localizedDescription": "KJournal은 PsychonautWiki Journal의 한국어 포크입니다. 한국어 물질 데이터, 안전사용 가이드, 내성 차트 등을 제공합니다.\n\nKJournal is a Korean-language fork of PsychonautWiki Journal, featuring Korean substance data, Safer Use guide, tolerance charts, and more.",
       "iconURL": "https://kjournal.github.io/KJournal-Source/icon.png",
       "tintColor": "18181e",
-      "subtitle": "KJournal iOS — PsychonautWiki Journal 한국어 포크",
-      "descriptions": {
-        "en": "KJournal is a Korean-language fork of PsychonautWiki Journal, featuring Korean substance data, Safer Use guide, tolerance charts, and more.",
-        "ko": "KJournal은 PsychonautWiki Journal의 한국어 포크입니다. 한국어 물질 데이터, 안전사용 가이드, 내성 차트 등을 제공합니다."
-      },
-      "downloadURL": "https://kjournal.github.io/kjournal-site/dist/ios/KJournal-5.0-PB2-ios.ipa",
       "size": 21895582,
-      "minSideVersion": "1.0.0"
+      "screenshotURLs": []
     }
   ],
   "news": [
     {
-      "name": "KJournal 5.0 PB2 iOS 출시",
+      "title": "KJournal 5.0 PB2 iOS 출시",
       "identifier": "kjournal-5.0-pb2-ios",
-      "imageURL": "https://kjournal.github.io/KJournal-Source/icon.png",
+      "caption": "KJournal 5.0 PB2 iOS (사이드로드)가 배포되었습니다. 사이드스토어/사이드로드로 설치할 수 있습니다.",
+      "url": "https://kjournal.github.io/kjournal-site/",
       "date": "2026-11-01T05:00:00Z",
-      "body": "KJournal 5.0 PB2 iOS (사이드로드)가 배포되었습니다. 사이드스토어/사이드로드로 설치할 수 있습니다.",
-      "notified": false
+      "notify": false
     }
   ]
 }
